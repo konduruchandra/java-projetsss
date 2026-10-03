@@ -1,3 +1,25 @@
+/*Movie Ticket Booking System
+Scenario:
+Users book seats in a theatre.
+
+Modules:
+
+Show available seats
+Book ticket
+Cancel ticket
+Discount Coupon
+Weekend Pricing
+Movie Rating
+
+Logic Design:
+
+2D array for seats (boolean[][])
+Concepts Covered:
+
+Arrays
+Loops
+Condition handling*/
+
 package projettss;
 
 import java.util.Scanner;
