@@ -1,3 +1,25 @@
+/* Online Voting System (Core Java)
+Scenario:
+A college election where students vote digitally. Each student can vote only once.
+
+Modules:
+
+Register/Login (store users in HashMap)
+Candidate list
+Vote casting
+View Total Votes
+Result display - Finalist automatically
+Display Runner-Up
+Logic Design:
+
+Map<String, Boolean> → track if user voted
+Map<String, Integer> → candidate votes
+Concepts Covered:
+
+OOP (User, Candidate classes)
+Collections (HashMap)
+Exception handling */
+
 package projettss;
 import java.util.HashMap;
 import java.util.Map;
